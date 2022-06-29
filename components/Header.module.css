@@ -1,0 +1,11 @@
+.header-name {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+}
+
+.header {
+  background: linear-gradient(180deg, #002037 0%, rgba(12, 28, 63, 0) 100%);
+}
